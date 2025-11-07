@@ -1,0 +1,9 @@
+torch>=2.0.0
+torchvision>=0.15.0
+fair-esm>=2.0.0
+biopython>=1.79
+numpy>=1.21
+scikit-learn>=1.0
+tensorboard>=2.11
+requests>=2.25.0
+beautifulsoup4>=4.9.0
